@@ -4,7 +4,17 @@ theme: linkhub-jekyll-theme
 # Site Configuration
 name: Joel Hayse  # Name of your website
 tagline: DM  # Set your preferred page title
-description: I always enjoy good company, especially when it’s sparked by a bit of curiosity.  If you’ve found yourself here after scanning that QR code at the bar go ahead and click that profile link.  Send me that DM and punch that ticket for a good time.   # Also used as a meta description
+description: "I see you’re the curious type, I like that.<br/>
+
+Give it a shot and be a little spontaneous.<br/>
+
+After all, life’s short and we’re only so young.<br/>
+
+Let’s keep the conversation going, this just might be the start of a great story.<br/>
+
+- Joel<br/>
+
+Send me a message here👇"
 favicon:
   path: https://www.busch.com/favicon.png # Path / URL to the favicon of your website (e.g., 'assets/images/favicon.png')
   type: png # File format of image. Change according to your image. Supported types: https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types
