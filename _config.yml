@@ -4,11 +4,7 @@ theme: linkhub-jekyll-theme
 # Site Configuration
 name: Joel Hayse  # Name of your website
 tagline: https://www.joelhayse.com  # Set your preferred page title
-description: I always enjoys good company, especially when it’s sparked by a bit of curiosity.
-
-If you’ve found yourself here after scanning that QR code at the bar go ahead and click that profile link.
-
-Send me that DM and punch that ticket for a good time.   # Also used as a meta description
+description: I always enjoys good company, especially when it’s sparked by a bit of curiosity.  If you’ve found yourself here after scanning that QR code at the bar go ahead and click that profile link.  Send me that DM and punch that ticket for a good time.   # Also used as a meta description
 favicon:
   path: https://i.ibb.co/SBRmBmt/favicon.png # Path / URL to the favicon of your website (e.g., 'assets/images/favicon.png')
   type: png # File format of image. Change according to your image. Supported types: https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types
