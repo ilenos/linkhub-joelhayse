@@ -4,7 +4,7 @@ theme: linkhub-jekyll-theme
 # Site Configuration
 name: Joel Hayse  # Name of your website
 tagline: https://www.joelhayse.com  # Set your preferred page title
-description: A well-dressed, rock-selling kind of man  # Also used as a meta description
+description: Joel always enjoys good company, especially when it’s sparked by a bit of curiosity. If you’ve found yourself here after scanning that QR code at the bar, you’ve definitely caught his attention. It’s not every day that a woman with discerning taste ends up on his little corner of the internet. Stick around; he promises it’ll be worth your while.  # Also used as a meta description
 favicon:
   path: https://i.ibb.co/SBRmBmt/favicon.png # Path / URL to the favicon of your website (e.g., 'assets/images/favicon.png')
   type: png # File format of image. Change according to your image. Supported types: https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types
@@ -17,8 +17,8 @@ twitter:
 image:
   path: assets/images/joel_and_dad.jpeg # Used for SEO (og:image, twitter:image)
   type: jpeg # File format of image.
-  height: 100 # Pixels
-  width: 100
+  height: 200 # Pixels
+  width: 200
   alt: logo
 
 # Verified Badge Configuration
