@@ -8,7 +8,12 @@
   icon: ri:instagram-fill
   color: '#E4405F'
 
-- name: x
-  url: https://x.com/joel_hayse?s=21&t=oc1Stp-gdm5tCjnuhAK12A
-  icon: ri:twitter-x-fill
-  color: '#1D9BF0'
+#- name: x
+#  url: https://x.com/joel_hayse?s=21&t=oc1Stp-gdm5tCjnuhAK12A
+#  icon: ri:twitter-x-fill
+#  color: '#1D9BF0'
+
+- name: snapchat
+  url: https://snapchat.com/t/Ncyl7c7Y
+  icon: ri:snapchat-fill
+  color: '#fffc00'
